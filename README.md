@@ -18,7 +18,7 @@ You can clone this repository and use it as a basis for your app, or use it to l
 
 1. Clone or unzip the Git repository to your workstation.
 2. Install dependencies with `npm install; bower install`
-3. Install Karma dependencies globally with `npm install -g karma karma-cli karma-protractor karma-coverage istanbul webdriver-manager mocha`
+3. Install Karma dependencies globally with `npm install -g karma karma-cli protractor karma-coverage istanbul webdriver-manager mocha`
 4. Run the application using the instructions in the Gulp section.
 
 ### Directory Structure
