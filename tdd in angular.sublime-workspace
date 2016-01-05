@@ -25,9 +25,6 @@
 			]
 		]
 	},
-	"buffers":
-	[
-	],
 	"build_system": "",
 	"build_system_choices":
 	[
@@ -89,12 +86,16 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/C/wamp/www/angular/tdd-in-angular"
-	],
 	"file_history":
 	[
+		"/C/wamp/www/angular/tdd-in-angular/app/index.html",
+		"/C/wamp/www/angular/tdd-in-angular/test/main.spec.js",
+		"/C/wamp/www/angular/tdd-in-angular/test/index.html",
+		"/C/wamp/www/angular/tdd-in-angular/app/main.js",
+		"/C/wamp/www/angular/tdd-in-angular/gulpfile.js",
+		"/C/wamp/www/angular/tdd-in-angular/package.json",
+		"/C/wamp/www/angular/tdd-in-angular/bower.json",
+		"/C/wamp/www/angular/tdd-in-angular/.gitignore",
 		"/C/wamp/www/angular/tdd-in-angular/node_modules/angular/angular.js",
 		"/C/wamp/www/angular/building-from-scratch/js/tv-premieres-app/controllers/mainController.js",
 		"/C/wamp/www/angular/building-from-scratch/index.html",
@@ -214,15 +215,7 @@
 		"/C/wamp/www/responsive-27-template/index.php",
 		"/C/wamp/www/responsive-27-template/pages/contact-us.html",
 		"/C/wamp/www/responsive-27-template/pages/our-services.html",
-		"/C/wamp/www/responsive-27-template/pages/specialist-areas.html",
-		"/C/wamp/www/responsive-27-template/web-parts/home-content.html",
-		"/C/wamp/www/responsive-27-template/web-parts/inner-banner.html",
-		"/C/wamp/www/responsive-27-template/pages/meet-team.html",
-		"/C/wamp/www/responsive-27-template/pages/employer faq.html",
-		"/C/wamp/www/responsive-27-template/web-parts/home-banner.html",
-		"/C/wamp/www/responsive-27-template/web-parts/home-search.html",
-		"/C/wamp/www/responsive-27-template/web-parts/web-part-left-sidebar.html",
-		"/C/wamp/www/responsive-27-template/js/widget.js"
+		"/C/wamp/www/responsive-27-template/pages/specialist-areas.html"
 	],
 	"find":
 	{
@@ -537,14 +530,6 @@
 		"whole_word": false,
 		"wrap": true
 	},
-	"groups":
-	[
-		{
-			"sheets":
-			[
-			]
-		}
-	],
 	"incremental_find":
 	{
 		"height": 59.0
@@ -585,7 +570,6 @@
 		"height": 0.0
 	},
 	"pinned_build_system": "",
-	"project": "tdd in angular.sublime-project",
 	"replace":
 	{
 		"height": 110.0
@@ -618,7 +602,6 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 0,
 	"settings":
 	{
 	},
